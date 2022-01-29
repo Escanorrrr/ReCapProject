@@ -1,0 +1,6 @@
+C:\Users\pc\source\repos\ReCapProject\Database3\bin\Debug\Database3.dacpac
+C:\Users\pc\source\repos\ReCapProject\Database3\bin\Debug\Database3.dll
+C:\Users\pc\source\repos\ReCapProject\Database3\bin\Debug\Database3.pdb
+C:\Users\pc\source\repos\ReCapProject\Database3\obj\Debug\Database3.sqlproj.AssemblyReference.cache
+C:\Users\pc\source\repos\ReCapProject\Database3\obj\Debug\Database3.dll
+C:\Users\pc\source\repos\ReCapProject\Database3\obj\Debug\Database3.pdb

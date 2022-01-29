@@ -1,0 +1,17 @@
+C:\Users\pc\source\repos\ReCapProject\VeriTabanı\bin\Debug\VeriTabanı.exe.config
+C:\Users\pc\source\repos\ReCapProject\VeriTabanı\bin\Debug\VeriTabanı.exe
+C:\Users\pc\source\repos\ReCapProject\VeriTabanı\bin\Debug\VeriTabanı.pdb
+C:\Users\pc\source\repos\ReCapProject\VeriTabanı\bin\Debug\Antlr3.Runtime.dll
+C:\Users\pc\source\repos\ReCapProject\VeriTabanı\bin\Debug\ExpressionEvaluator.dll
+C:\Users\pc\source\repos\ReCapProject\VeriTabanı\bin\Debug\GSF.Core.dll
+C:\Users\pc\source\repos\ReCapProject\VeriTabanı\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\pc\source\repos\ReCapProject\VeriTabanı\bin\Debug\GSF.Core.xml
+C:\Users\pc\source\repos\ReCapProject\VeriTabanı\obj\Debug\VeriTabanı.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\ReCapProject\VeriTabanı\obj\Debug\VeriTabanı.Form1.resources
+C:\Users\pc\source\repos\ReCapProject\VeriTabanı\obj\Debug\VeriTabanı.Properties.Resources.resources
+C:\Users\pc\source\repos\ReCapProject\VeriTabanı\obj\Debug\VeriTabanı.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\ReCapProject\VeriTabanı\obj\Debug\VeriTabanı.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\ReCapProject\VeriTabanı\obj\Debug\VeriTabanı.csproj.CopyComplete
+C:\Users\pc\source\repos\ReCapProject\VeriTabanı\obj\Debug\VeriTabanı.exe
+C:\Users\pc\source\repos\ReCapProject\VeriTabanı\obj\Debug\VeriTabanı.pdb
+C:\Users\pc\source\repos\ReCapProject\VeriTabanı\obj\Debug\VeriTabanı.csproj.SuggestedBindingRedirects.cache

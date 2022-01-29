@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="19db4540-93d8-43c4-93bf-c5c64d96b9ed" ChangeDateTime="10/18/2021 11:50:26">
+    <Property Name="ElementName" Value="[dbo].[CarDb].[Car]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[CarDb]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="CarId" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="f09edc31-a4b8-4949-9bc7-a611ffc23c40" ChangeDateTime="10/18/2021 11:59:26">
+    <Property Name="ElementName" Value="[dbo].[ColorDb].[Colo]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[ColorDb]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="ColoId" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="63d1ce5f-3e2a-4050-88f4-5f25e53f6430" ChangeDateTime="10/23/2021 14:39:36">
+    <Property Name="ElementName" Value="[dbo].[ColorDb].[ColoId]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[ColorDb]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="ColorId" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="435fc668-b724-43be-89b3-0e0b0e88a7b7" ChangeDateTime="10/23/2021 15:04:25">
+    <Property Name="ElementName" Value="[dbo].[CarDetailsDb].[Des]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[CarDetailsDb]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Description" />
+  </Operation>
+</Operations>

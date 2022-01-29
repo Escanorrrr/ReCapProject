@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6cc8438f-8078-464e-b9b4-9f4c7324fcba": {
+      "ProjectGuid": "6cc8438f-8078-464e-b9b4-9f4c7324fcba",
+      "DisplayName": "VeriTabanı",
+      "ColorIndex": 0
+    },
+    "9b9ecf53-8399-498a-ba9b-fd88dcdac133": {
+      "ProjectGuid": "9b9ecf53-8399-498a-ba9b-fd88dcdac133",
+      "DisplayName": "Business",
+      "ColorIndex": 1
+    },
+    "decd3bbe-fca6-4e8f-9206-4699282aa315": {
+      "ProjectGuid": "decd3bbe-fca6-4e8f-9206-4699282aa315",
+      "DisplayName": "DataAccess",
+      "ColorIndex": 2
+    },
+    "d0b5fb48-c1cb-464d-94e1-9f14903ffd4a": {
+      "ProjectGuid": "d0b5fb48-c1cb-464d-94e1-9f14903ffd4a",
+      "DisplayName": "Core",
+      "ColorIndex": 3
+    },
+    "987ad729-b001-42d9-901b-97217355a380": {
+      "ProjectGuid": "987ad729-b001-42d9-901b-97217355a380",
+      "DisplayName": "Entities",
+      "ColorIndex": 4
+    },
+    "0e1215a8-39b1-44ad-9b8e-9033477ded92": {
+      "ProjectGuid": "0e1215a8-39b1-44ad-9b8e-9033477ded92",
+      "DisplayName": "WebAPI",
+      "ColorIndex": 5
+    },
+    "4b0b46c3-ac9a-4351-937e-18ca23636226": {
+      "ProjectGuid": "4b0b46c3-ac9a-4351-937e-18ca23636226",
+      "DisplayName": "WebAPII",
+      "ColorIndex": 6
+    },
+    "9c19f295-4254-4921-ba35-1b6c0d10811d": {
+      "ProjectGuid": "9c19f295-4254-4921-ba35-1b6c0d10811d",
+      "DisplayName": "WebAPI",
+      "ColorIndex": 7
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 8
+}
